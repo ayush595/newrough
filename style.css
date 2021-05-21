@@ -1,0 +1,24 @@
+body{
+  display: inline;
+    text-align: left;
+}
+
+p{
+    font-size: 16;
+}
+img{
+    width: 700px; height: 400px;
+    margin-left: 500px;
+}
+span{
+    display: inline;
+}
+hr{
+    height: 100%;
+}
+#60.jpg{
+    height: 500px;
+}
+#mynavbar{
+    position: sticky;
+}
